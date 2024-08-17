@@ -1,6 +1,11 @@
 # The Roast 
 This project was born at the 2023 UC Berkeley AI Hackathon. It has since gone through a UI refresh and additional features have been added. The description below comes from our Devpost submission [here](https://devpost.com/software/the-roast).
 
+![image](https://github.com/user-attachments/assets/3075468c-9243-4f8c-aad1-3487adbfda4b)
+*Main feed*
+
+
+
 ## About
 Every morning, people get dozens of emails from all different kinds of content sources: NY Times, Tech Crunch, Quora, etc. 
 Our platform let's you specify your interests and the places you get your news, then sends you a daily newsletter every morning, with news and online content curated for you.
